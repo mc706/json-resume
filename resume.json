@@ -1,108 +1,251 @@
 {
   "basics": {
     "name": "Ryan McDevitt",
-    "label": "Programmer",
+    "label": "Senior Full Stack Software Engineer",
     "picture": "",
     "email": "mcdevitt.ryan@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(610) 764-3534",
+    "website": "http://mc706.com",
+    "summary": "Driven individual who likes learning new things and applying them in real life to make things more efficient. Once set on a project, will stop at nothing to see it through to completion. Self taught in Django, Ruby on Rails, Node.js, AngularJS and HTML5/CSS3, is always looking for new tools to best fit the job. Constantly on the \"pursuit of perfection\" both inside and outside work. Values doing thing the right way over the cheap or fast way.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "14 Hilltown Pike",
+      "postalCode": "PA 18932",
+      "city": "Line Lexington",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "@mc706",
+        "url": "https://twitter.com/mc706"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
+        "network": "LinkedIn",
+        "username": "RyanMcDevitt",
         "url": "https://soundcloud.com/dandymusicnl"
+      },
+      {
+        "network": "Github",
+        "username": "mc706",
+        "url": "https://github.com/mc706"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Comcast",
+      "position": "Senior Software Engineering Consultant",
+      "website": "http://comcast.com",
+      "startDate": "2014-05-01",
+      "summary": "Worked on XfinityTVGo Web, Cloud TV, Comcast Welcome Experience, MyAccount and Omni-channel.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Ruby on Rails",
+        "Polymer Web Components",
+        "AngularJS",
+        "HTML5/CSS3/SASS",
+        "BackboneJS",
+        "Vanilla Javascript"
+      ]
+    },
+    {
+      "company": "Sungard Consulting Services",
+      "position": "Senior Software Engineering Consultant",
+      "website": "https://www.sungard.com/services/consulting-services/",
+      "startDate": "2014-05-01",
+      "summary": "Contracted into Comcast Interactive Media",
+      "highlights": []
+    },
+    {
+      "company": "RED Development Studio",
+      "position": "Founder",
+      "website": "http://development.red/",
+      "startDate": "2014-10-01",
+      "summary": "Founded a software engineering consultancy that empowers small and medium businesses by replacing their paper or Excel driven business processes with custom web applications.",
+      "highlights": [
+        "Python",
+        "Django",
+        "AngularJS",
+        "PhaserJS",
+        "Amazon Web Services",
+        "Elixir/Phoenix",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "company": "Intelivert",
+      "position": "Open Source Contractor",
+      "website": "http://www.intelivert.com/",
+      "startDate": "2013-12-01",
+      "summary": "Working building open source solutions and rebuilding clients open source applications.",
+      "highlights": [
+        "PHP",
+        "MySQL",
+        "Python",
+        "Django",
+        "AngularJS",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "company": "Nuix",
+      "position": "Frontend Engineer",
+      "website": "http://www.nuix.com/",
+      "startDate": "2013-11-01",
+      "endDate": "2014-05-01",
+      "summary": "Worked as a UI/UX Engineer working with design to build interfaces for the worlds fastest unformatted data search engine",
+      "highlights": [
+        "BackboneJS/Marrionette",
+        "HandlebarsJS",
+        "HTML5/CSS3/SASS"
+      ]
+    },
+    {
+      "company": "Encompass Elements",
+      "position": "Software Engineer",
+      "website": "http://encompasselements.com/",
+      "startDate": "2012-12-01",
+      "endDate": "2013-11-01",
+      "summary": "Upgrade and replace legacy systems using new technology and web based applications. Created Applications for Client Projects.",
+      "highlights": [
+        "ASP Classic",
+        "C#.NET MVC",
+        "Python/Django",
+        "AngularJS",
+        "CouchDB",
+        "MySQL",
+        "MSSQL"
+      ]
+    },
+    {
+      "company": "Fox Group",
+      "position": "Director of Research and Development",
+      "website": "https://www.foxgrp.net/",
+      "startDate": "2009-07-01",
+      "endDate": "2013-11-01",
+      "summary": "Advance the technological state of the company, streamline business practices and processes, and develop new, innovative ways to use technology in the industrial setting.",
+      "highlights": [
+        "Arduino/C++",
+        "Python/Django",
+        "PHP",
+        "Serial Connections",
+        "3D Printing",
+        "Industrial Optical and Imaging equipment"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
+      "organization": "LaSalle College Highschool Microsoft Tech Academy",
       "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "website": "https://www.lschs.org/technology/teched",
+      "startDate": "2013-06-01",
+      "summary": "Taught summer sessions to middle and highschool students to get microsoft certified in programming fundamentals",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "MTA 98-361 Software Development Fundamentals in C#",
+        "MTA 98-374 Game Development Fundamentals in C#"
       ]
+    },
+    {
+      "organization": "LetsHaveSomeFund",
+      "position": "Board Member",
+      "website": "",
+      "startDate": "2013-06-01",
+      "summary": "A 501c3 charity for helping other charities with fundraising"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Stevens Institute of Technology",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "startDate": "2009-09-01",
+      "endDate": "2011-11-01"
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Eagle Scout",
+      "date": "2008-06-01",
+      "awarder": "Boy Scounts of America",
+      "summary": "Earned the highest rank in scouting"
+    },
+    {
+      "title": "$25,000 Christopher Columbus Awards Community Grant",
+      "date": "2004-06-01",
+      "awarder": "Christopher Columbus Awards Foundation",
+      "summary": "Led a team with idea of an Allergen Scanner in a national competition that challenges middleschool students to use the scientific method to solve problems in their community"
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
+      "name": "RED Development Blog",
+      "publisher": "RED Development Studio",
       "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "website": "http://blog.development.red",
+      "summary": "Blog on technology from the developers at RED"
+    },
+    {
+      "name": "Personal Blog",
+      "publisher": "mc706",
+      "releaseDate": "2013-10-01",
+      "website": "http://mc706.com",
+      "summary": "Blog on personal experience in technology"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Fronted Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "AngularJS",
+        "BackboneJS",
+        "Polymer"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Middleware Development",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Python/Django/Flask",
+        "Ruby/Rails",
+        "PHP",
+        "Elixir/Phoenix"
+      ]
+    },
+    {
+      "name": "Database Architect",
+      "level": "Senior",
+      "keywords": [
+        "MySQL",
+        "MSSQL",
+        "PostgresSQL",
+        "MongoDB",
+        "CouchDB"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Senior",
+      "keywords": [
+        "Linux/Unix",
+        "Microsoft Certified in MS Server",
+        "Amazon Web Services",
+        "Travis/Jenkins/Codeship",
+        "Continous Integration",
+        "Build Tool Development"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Mid-Level",
+      "keywords": [
+        "Arduino/Circit Design",
+        "Serial inputs",
+        "3D Printing"
       ]
     }
   ],
@@ -112,19 +255,5 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+  "references": []
 }
